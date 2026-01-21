@@ -1,0 +1,15 @@
+==== Connector Mixin Patch Audit Summary ====
+Successful: 0
+Partial: 0
+Failed: 0
+Success rate: NaN%        Accuracy: NaN%
+=============================================
+
+Mixin method me/timvinci/terrastorage/mixin/client/HandledScreenMixin mouseClicked(DDILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;ZLnet/minecraft/world/inventory/Slot;)V
+  >> Using org.sinytra.adapter.patch.transformer.operation.param.TransformParameters
+     - Change descriptor to (DDILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lcom/mojang/blaze3d/platform/InputConstants$Key;ZLnet/minecraft/world/inventory/Slot;)V
+
+Mixin method me/timvinci/terrastorage/mixin/client/HandledScreenMixin mouseClickedTail(DDILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;ZLnet/minecraft/world/inventory/Slot;)V
+  >> Using org.sinytra.adapter.patch.transformer.operation.param.TransformParameters
+     - Change descriptor to (DDILorg/spongepowered/asm/mixin/injection/callback/CallbackInfoReturnable;Lcom/mojang/blaze3d/platform/InputConstants$Key;ZLnet/minecraft/world/inventory/Slot;)V
+
